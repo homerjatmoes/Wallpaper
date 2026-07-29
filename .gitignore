@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary / cache files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Compressed archives (optional)
+*.zip
+*.rar
+*.7z
+
+# Large original files (optional - if you only want to keep optimized versions)
+# originals/
+# raw/
